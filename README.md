@@ -50,4 +50,5 @@ If you use Hypersweeper in your project, please cite us:
   title     = {Hypersweeper},
   year      = {2024},
   url = {https://github.com/automl/hypersweeper},
+}
 ```
